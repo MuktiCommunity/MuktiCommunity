@@ -20,6 +20,8 @@ Mukti is proudly supported by the CSE department of Ramaiah Institute of Technol
 ## Get Involved 🚀
 Join us on this exciting journey of knowledge, innovation, and FOSS advocacy. Contribute to our projects, participate in discussions, and let's make a positive impact on the tech community.
 
+[![MuktiCommunity's GitHub | Stats](https://stats.quine.sh/MuktiCommunity/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MuktiCommunity)
+
 ### Connect with Mukti:
 - [Website](#) (coming soon)
 - [Instagram](https://www.instagram.com/mukti_community/)
