@@ -15,7 +15,7 @@ Mukti is on a mission to unleash the power of collaboration through Free and Ope
 - **Software Development:** Building innovative solutions and contributing to the open-source ecosystem.
 
 ## Collaboration and Support 🤝
-Mukti is proudly supported by the CSE department of Ramaiah Institute of Technology and esteemed organizations like Foss United and FSMK. Together, we strive to explore the frontiers of cybersecurity and AI.
+Mukti is proudly supported by esteemed organizations like Foss United and FSMK. Together, we strive to explore the frontiers of cybersecurity and AI.
 
 ## Get Involved 🚀
 Join us on this exciting journey of knowledge, innovation, and FOSS advocacy. Contribute to our projects, participate in discussions, and let's make a positive impact on the tech community.
@@ -23,7 +23,7 @@ Join us on this exciting journey of knowledge, innovation, and FOSS advocacy. Co
 [![MuktiCommunity's GitHub | Stats](https://stats.quine.sh/MuktiCommunity/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MuktiCommunity)
 
 ### Connect with Mukti:
-- [Website](#) (coming soon)
+- [Website](https://www.mukticommunity.github.io/)
 - [Instagram](https://www.instagram.com/mukti_community/)
 - [LinkedIn](https://www.linkedin.com/company/mukticommunity/)
 
