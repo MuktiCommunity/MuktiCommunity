@@ -20,10 +20,9 @@ Mukti is proudly supported by esteemed organizations like Foss United and FSMK. 
 ## Get Involved 🚀
 Join us on this exciting journey of knowledge, innovation, and FOSS advocacy. Contribute to our projects, participate in discussions, and let's make a positive impact on the tech community.
 
-[![MuktiCommunity's GitHub | Stats](https://stats.quine.sh/MuktiCommunity/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MuktiCommunity)
-
 ### Connect with Mukti:
 - [Website](https://mukticommunity.github.io/)
+- [Telegram](https://t.me/+wFGdHiypdQhkZWU9)
 - [Instagram](https://www.instagram.com/mukti_community/)
 - [LinkedIn](https://www.linkedin.com/company/mukticommunity/)
 
